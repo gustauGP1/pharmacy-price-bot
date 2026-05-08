@@ -4,7 +4,7 @@ Bot de Telegram que compara precios de medicamentos entre las principales farmac
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green.svg)](https://www.mongodb.com/atlas)
 [![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Run-blue.svg)](https://cloud.google.com/run)
 
@@ -344,7 +344,12 @@ Ver [DEPLOYMENT.md](DEPLOYMENT.md) para más detalles.
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo **Licencia Propietaria** de GP1 DevStudio.
+Copyright © 2026 Gustavo Palma Rodríguez - Todos los derechos reservados.
+
+Ver [LICENSE](LICENSE) para términos y condiciones completos.
+
+**Contacto para licencias comerciales**: gp1devstudio@gmail.com
 
 ## 🙏 Agradecimientos
 
